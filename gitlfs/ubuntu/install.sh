@@ -7,9 +7,9 @@ curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.s
 sudo apt-get install git-lfs
 git lfs install
 
-echo "Do you want to continue?(yes/no)"
+echo "Do you want to continue? [Y/n]"
 read input
-if [ "$input" == "yes" ]
+if [ "$input" == "Y" ]
 then
 echo "continue"
 fi

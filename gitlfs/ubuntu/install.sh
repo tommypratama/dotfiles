@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 sudo apt-get install software-properties-common
 sudo add-apt-repository ppa:git-core/ppa
 sudo apt-get update

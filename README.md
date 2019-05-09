@@ -1,6 +1,6 @@
 # Dotfiles Repository
 
-## Bash Scripts
+## Run Scripts
 
 Jika di dalam script sudah menggunakan `-y` untuk mengkonfirmasi proses instalasi
 
